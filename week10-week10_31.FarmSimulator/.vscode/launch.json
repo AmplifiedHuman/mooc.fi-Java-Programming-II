@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "farmsimulator.Main",
+            "projectName": "week10-week10_31.FarmSimulator_73f3f875"
+        }
+    ]
+}

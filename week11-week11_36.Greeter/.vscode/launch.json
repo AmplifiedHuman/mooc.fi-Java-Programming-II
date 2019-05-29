@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "greeter.ui.Main",
+            "projectName": "week11-week11_36.Greeter_58e750e2"
+        }
+    ]
+}

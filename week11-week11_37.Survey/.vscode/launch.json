@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "survey.Main",
+            "projectName": "week11-week11_37.Survey_da40a34d"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "dictionary.Main",
+            "projectName": "week9-week9_24.MultipleEntryDictionary_84638a33"
+        }
+    ]
+}

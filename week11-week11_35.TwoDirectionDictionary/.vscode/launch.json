@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "dictionary.Main",
+            "projectName": "week11-week11_35.TwoDirectionDictionary_354343be"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "boxes.Main",
+            "projectName": "week10-week10_32.DifferentBoxes_ec118db8"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "dungeon.Main",
+            "projectName": "week10-week10_33.Dungeon_2da95a03"
+        }
+    ]
+}

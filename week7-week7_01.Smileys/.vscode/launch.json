@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Smileys",
+            "request": "launch",
+            "mainClass": "Smileys",
+            "projectName": "week7-week7_01.Smileys_4df123a0"
+        }
+    ]
+}

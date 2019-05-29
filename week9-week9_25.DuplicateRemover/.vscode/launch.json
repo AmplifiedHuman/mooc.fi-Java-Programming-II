@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "tools.Main",
+            "projectName": "week9-week9_25.DuplicateRemover_7c7813a7"
+        }
+    ]
+}

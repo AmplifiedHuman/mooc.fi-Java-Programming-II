@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "drawing.ui.Main",
+            "projectName": "week11-week11_41.DrawingBoard_f06957a2"
+        }
+    ]
+}

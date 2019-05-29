@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "wormgame.Main",
+            "projectName": "week12-week12_49.WormGame_1d402b7"
+        }
+    ]
+}

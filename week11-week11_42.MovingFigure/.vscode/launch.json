@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "movingfigure.Main",
+            "projectName": "week11-week11_42.MovingFigure_a60ca0ab"
+        }
+    ]
+}

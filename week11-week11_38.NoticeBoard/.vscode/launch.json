@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "noticeboard.Main",
+            "projectName": "week11-week11_38.NoticeBoard_dd67795c"
+        }
+    ]
+}

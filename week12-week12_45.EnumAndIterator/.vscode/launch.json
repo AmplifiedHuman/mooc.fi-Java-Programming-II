@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "personnel.Main",
+            "projectName": "week12-week12_45.EnumAndIterator_64098a4e"
+        }
+    ]
+}

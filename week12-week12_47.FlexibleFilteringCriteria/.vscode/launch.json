@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "reader.Main",
+            "projectName": "week12-week12_47.FlexibleFilteringCriteria_289c360a"
+        }
+    ]
+}

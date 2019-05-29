@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "moving.Main",
+            "projectName": "week9-week9_18.Moving_fd6607ae"
+        }
+    ]
+}
